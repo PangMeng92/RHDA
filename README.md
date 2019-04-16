@@ -23,6 +23,8 @@ If you find this software useful and use it in your own work, please cite our pa
   
 }
 
-Please note that, in this package, we just present our RHDA in a serial mode! Moreover, RHDA can also be implemented in a parallel model by performing DSME+patch-to-patch distance and DMME+patch-to-manifold distance simultaneously.       
+To perform RHDA, please run testSGL_ssppse.m; 
+
+In this package, we just present our RHDA in a serial mode! Moreover, RHDA can also be implemented in a parallel model by performing DSME+patch-to-patch distance and DMME+patch-to-manifold distance simultaneously.       
 
 The software is free for academic use, and shall not be used, rewritten, or adapted as the basis of a commercial product without first obtaining permission from the authors. The authors make no representations about the suitability of this software for any purpose. It is provided "as is" without express or implied warranty.
