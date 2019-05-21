@@ -7,7 +7,7 @@ Highlights:
 3. Two distance metrics are introduced simultaneously to enhance robustness.
 4. A fusion strategy called joint majority voting is developed for recognition.
 
-
+----------------------------------------------------------------------------------------------------------------------------------------
 
 MATLAB implementation of Robust Heterogeneous Discriminative Analysis for Face Recognition with Single Sample per Person [1]
 
