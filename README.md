@@ -1,4 +1,14 @@
 # RHDA
+
+Highlights:
+
+1. A new patch-based method is proposed for single sample per person face recognition.
+2. A Fisher-like criterion is designed to extract discriminant information of patches.
+3. Two distance metrics are introduced simultaneously to enhance robustness.
+4. A fusion strategy called joint majority voting is developed for recognition.
+
+
+
 MATLAB implementation of Robust Heterogeneous Discriminative Analysis for Face Recognition with Single Sample per Person [1]
 
 If you find this software useful and use it in your own work, please cite our paper:
